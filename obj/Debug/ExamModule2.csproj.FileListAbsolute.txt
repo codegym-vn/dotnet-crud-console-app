@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ExamModule2.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\HP\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\HP\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\HP\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\HP\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\HP\Desktop\ExamModule2\ExamModule2\bin\Debug\ConsoleApp1.exe.config
+C:\Users\HP\Desktop\ExamModule2\ExamModule2\bin\Debug\ConsoleApp1.exe
+C:\Users\HP\Desktop\ExamModule2\ExamModule2\bin\Debug\ConsoleApp1.pdb
+C:\Users\HP\Desktop\ExamModule2\ExamModule2\obj\Debug\ExamModule2.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ExamModule2\ExamModule2\obj\Debug\ConsoleApp1.exe
+C:\Users\HP\Desktop\ExamModule2\ExamModule2\obj\Debug\ConsoleApp1.pdb
